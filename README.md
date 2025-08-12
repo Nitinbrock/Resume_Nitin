@@ -9,9 +9,6 @@ resume-website/
 ├── style.css    # Stylesheet for the webpage
 └── README.md    # Project documentation
 
-##  Live Demo
-[Click here to view the hosted site](https://yourusername.github.io/resume-website/)
-
 ##  Features
 - Personal details and contact info
 - Education section
